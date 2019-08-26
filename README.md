@@ -1,3 +1,7 @@
+# ![$\mathbb{AZRC}$](http://latex.codecogs.com/gif.latex?%5Chuge%20%5Cmathbb%7BAZRC%7D)
+
+Actuarial Intelligent Risk Capital
+
 # Generator Watson [![Build Status](https://circleci.com/gh/IBM-Watson/generator-watson.svg?style=svg)](https://circleci.com/gh/IBM-Watson/generator-watson) [![npm version](https://badge.fury.io/js/generator-watson.svg)](http://badge.fury.io/js/generator-watson)
 
 > [Yeoman](http://yeoman.io) generator
